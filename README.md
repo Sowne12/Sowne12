@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sowne12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Making Emulators
+- 🌱 I’m currently learning Japanese
+- 💞️ I’m looking to collaborate on Smoking Weed
 - 📫 How to reach me !WeesFN#7396 On Discord
 
 <!---
